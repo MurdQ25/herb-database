@@ -51,7 +51,7 @@ Got a thought (e.g., add herb photos)? Click “Issues” and write:
 - How’s it good for tryherbals.com?
 
 ### Join as a Coder (Pensacola)
-I’m looking for a **Pensacola partner** for **equity** (20–50%). Email contact at tryherbals period com with an idea for tryherbals.com. Coffee at The Drowsy Poet? See [README](README.md).
+I’m looking for a **Pensacola partner** for **equity** (20–50%). Email contact@tryherbals.com with an idea for tryherbals.com. Coffee at The Drowsy Poet? See [README](README.md).
 
 ## 📜 Rules
 - **Keep It Free**: No fees or logins.
