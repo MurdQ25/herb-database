@@ -74,7 +74,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how (coming soon).
 No other site is free, skips logins, *and* links to herb sellers. Tryherbals.com will help people learn and find herbs safely.
 
 ## 📬 Get in Touch
-- **Email**: contact@tryherbals.com
+- **Email**: contact at tryherbals period com
 - **GitHub**: Comment or open an “issue.”
 - **Pensacola**: Meet at Bodacious Brew to talk herbs?
 
