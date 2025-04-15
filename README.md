@@ -48,6 +48,7 @@ I’m looking for a **Pensacola coder** to join for **equity** (20–50% share, 
 - Work with me on GitHub.
 
 **What It Takes**:
+
 - **Storage**: 4 GB for 30,000 herbs (60 MB text + 3.5 GB photos).
 - **Setup**: Cheap server ($5–10/month) or free GitHub Pages.
 - **Skills**: Python (pandas, Flask) or JavaScript; GitHub basics.
