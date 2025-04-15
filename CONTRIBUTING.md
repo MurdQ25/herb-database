@@ -1,14 +1,12 @@
 # Contributing to Herb Database 🌿 | tryherbals.com
 
-Thank you for helping build the **Herb Database** for [tryherbals.com](https://tryherbals.com)! This free, no-login project shares herb knowledge (500 herbs now, 30,000 someday) with vendor links to support sellers. Whether you know herbs or code, your contributions make tryherbals.com better for everyone.
-
-I'm Kathy.
+Thanks for helping the **Herb Database** at [tryherbals.com](https://tryherbals.com)! This free, no-login project shares herb knowledge (500 herbs now, 30,000 later) with links to buy herbs. Whether you love herbs or code, you can make tryherbals.com better.
 
 ## 📋 How Can I Help?
 
 ### Add Herbs
-Our data is in `herbs_1-500.csv`. Want to add or fix an herb?
-- **What’s Needed**: Each herb has:
+Our list is in `herbs_1-500.csv`. Want to add or fix an herb?
+- **What Goes In**: Each herb needs:
   - Common Name (e.g., Ginger)
   - Scientific Name (e.g., *Zingiber officinale*)
   - Properties (e.g., Anti-inflammatory)
@@ -17,63 +15,63 @@ Our data is in `herbs_1-500.csv`. Want to add or fix an herb?
   - Habitat (e.g., Southeast Asia)
   - Parts Used (e.g., Root)
   - Preparation (e.g., Tea)
-  - Citations (e.g., WHO Monographs)
-  - Vendor Links (e.g., herb shop URLs; optional)
+  - Citations (e.g., WHO book)
+  - Vendor Links (e.g., shop URLs; leave blank for now)
 - **Steps**:
-  1. Click “Fork” on this repo’s page.
-  2. Open `herbs_1-500.csv` in Excel or Google Sheets.
-  3. Add a new row or edit an herb. Keep entries short (~50–100 characters, links ~200).
-  4. Check facts with books, studies, or trusted sites.
+  1. Click “Fork” on this repo.
+  2. Open `herbs_1-500.csv` in Excel, Google Sheets, or Notepad.
+  3. Add a row or edit an herb. Keep it short (~50–100 letters).
+  4. Check your info (use books or trusted websites).
   5. Save and “Commit” with a note (e.g., “Added Ginger”).
   6. Click “Pull Request” to send it to me.
 - **Tips**:
-  - Don’t repeat herbs—search the CSV first.
-  - Cite a source (e.g., “PubMed: 123456” or “Ayurveda book”).
+  - Don’t add the same herb twice—check the CSV.
+  - Add a source (e.g., “PubMed: 123456”).
 
 ### Code for tryherbals.com
-Want to build the website or database?
+Want to build the website?
 - **Ideas**:
-  - Make the CSV a database (like SQLite).
-  - Create a tryherbals.com page to show herbs.
-  - Add search (e.g., find “calming” herbs).
+  - Turn the CSV into a database (like SQLite).
+  - Make tryherbals.com show herbs.
+  - Add a search (e.g., find “calming” herbs).
 - **Steps**:
   1. Fork the repo.
-  2. Make a new file or folder (e.g., `web/` for site code).
-  3. Use Python (pandas, Flask) or JavaScript.
-  4. Test it (e.g., run `python mycode.py`).
-  5. Commit with a note (e.g., “Added herb search”).
+  2. Add a file (e.g., `web.py` for a website).
+  3. Try Python (pandas, Flask) or JavaScript.
+  4. Test it (e.g., `python web.py`).
+  5. Commit with a note (e.g., “Added herb page”).
   6. Send a pull request.
 - **Needs**:
-  - ~4 GB storage for 30,000 herbs (with photos).
-  - Cheap server ($5–10/month) or free GitHub Pages.
+  - ~4 GB space for 30,000 herbs (with photos).
+  - Cheap server ($5/month) or free GitHub Pages.
 
 ### Share Ideas
-Got a thought (e.g., add herb photos)? Click “Issues” in the repo and write:
-- What’s the idea?
-- Why’s it cool for tryherbals.com?
+Got a thought (e.g., add herb photos)? Click “Issues” and write:
+- What’s your idea?
+- How’s it good for tryherbals.com?
 
 ### Join as a Coder (Pensacola)
-I need a **Pensacola partner** to co-build this for **equity** (20–50%). Email contact@tryherbals.com with an idea for tryherbals.com. Let’s meet at Bodacious Brew! See [README](README.md) for more.
+I’m looking for a **Pensacola partner** for **equity** (20–50%). Email contact@tryherbals.com with an idea for tryherbals.com. Coffee at The Drowsy Poet? See [README](README.md).
 
 ## 📜 Rules
-- **Keep It Free**: No paywalls or logins.
-- **Check Work**: Use trusted sources for herbs; test code.
-- **Be Nice**: Respect everyone helping out.
-- **Stay Focused**: Add stuff about herbs or tryherbals.com.
+- **Keep It Free**: No fees or logins.
+- **Do Good Work**: Check herb facts; test code.
+- **Be Kind**: Respect others helping.
+- **Focus**: Stick to herbs and tryherbals.com.
 
 ## 🛠️ Tools
 - **Herbs**: Excel, Google Sheets, or Notepad for CSV.
 - **Code**: Python, JavaScript, or database tools.
-- **GitHub**: New? Try [github.com/learn](https://github.com/learn) for help.
+- **GitHub**: New? See [github.com/learn](https://github.com/learn).
 
 ## 📈 Why Help?
-- Share herb knowledge freely.
+- Share herbs with everyone.
 - Learn coding or herbs.
-- Build tryherbals.com—a site no one else has!
+- Build tryherbals.com—a one-of-a-kind site!
 
 ## 📬 Questions?
 - Click “Issues” here.
 - Email contact@tryherbals.com.
-- In Pensacola? Coffee at Bodacious Brew.
+- Pensacola? Coffee at The Drowsy Poet.
 
 Thanks for growing [tryherbals.com](https://tryherbals.com)! 🌱
