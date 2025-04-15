@@ -1,6 +1,6 @@
 # Contributing to Herb Database 🌿 | tryherbals.com
 
-Thanks for helping the **Herb Database** at [tryherbals.com](https://tryherbals.com)! This free, no-login project shares herb knowledge (500 herbs now, 30,000 later) with links to buy herbs. Whether you love herbs or code, you can make tryherbals.com better.
+Thanks for helping the **Herb Database** at [tryherbals.com](https://tryherbals.com)! This free, no-login project shares herb knowledge (500 herbs now, 30,000 later) with links to buy herbs. Funded by vendor links and sponsored guides, we keep it private and free. Whether you love herbs or code, you can make tryherbals.com better.
 
 ## 📋 How Can I Help?
 
@@ -32,7 +32,7 @@ Our list is in `herbs_1-500.csv`. Want to add or fix an herb?
 Want to build the website?
 - **Ideas**:
   - Turn the CSV into a database (like SQLite).
-  - Make tryherbals.com show herbs.
+  - Make tryherbals.com show herbs, vendor links, or sponsored guides.
   - Add a search (e.g., find “calming” herbs).
 - **Steps**:
   1. Fork the repo.
@@ -51,7 +51,7 @@ Got a thought (e.g., add herb photos)? Click “Issues” and write:
 - How’s it good for tryherbals.com?
 
 ### Join as a Coder (Pensacola)
-I’m looking for a **Pensacola partner** for **equity** (20–50%). Email contact@tryherbals.com with an idea for tryherbals.com. Coffee at The Drowsy Poet? See [README](README.md).
+I’m looking for a **Pensacola partner** for **equity** (20–50%). You’d help build tryherbals.com, funded by vendor links and guides, keeping it free. Email contact@tryherbals.com with an idea. Coffee at The Drowsy Poet? See [README](README.md).
 
 ## 📜 Rules
 - **Keep It Free**: No fees or logins.
